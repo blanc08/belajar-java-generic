@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/belajar-java-generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/MyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/GenericClassApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/PairApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Generic class">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ArrayHelperApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/util/ArrayHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PairApp">
+  <component name="RunManager" selected="Application.ArrayHelperApp">
+    <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ArrayHelperApp" />
+      <module name="belajar-java-generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blanc08.generic.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericClassApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.GenericClassApp" />
       <module name="belajar-java-generic" />
@@ -87,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayHelperApp" />
         <item itemvalue="Application.PairApp" />
         <item itemvalue="Application.GenericClassApp" />
         <item itemvalue="Application.Main" />
@@ -102,6 +109,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680767229740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Generic class">
+      <created>1681105369116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681105369116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generic class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic class" />
   </component>
 </project>
