@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Generic class">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ArrayHelperApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/util/ArrayHelper.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Generic method">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/InvariantApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,11 +115,19 @@
       <option name="project" value="LOCAL" />
       <updated>1681105369116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Generic method">
+      <created>1681107109669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681107109669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic class" />
+    <MESSAGE value="Generic method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic method" />
   </component>
 </project>
