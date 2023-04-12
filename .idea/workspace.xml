@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Invariant">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/CovariantApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Covariant">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ContravariantApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayHelperApp">
+  <component name="RunManager" selected="Application.ContravariantApp">
     <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ArrayHelperApp" />
+      <module name="belajar-java-generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blanc08.generic.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContravariantApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ContravariantApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -92,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContravariantApp" />
         <item itemvalue="Application.ArrayHelperApp" />
         <item itemvalue="Application.PairApp" />
         <item itemvalue="Application.GenericClassApp" />
@@ -129,13 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681109362824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Covariant">
+      <created>1681273770469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681273770469</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic class" />
     <MESSAGE value="Generic method" />
     <MESSAGE value="Invariant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Invariant" />
+    <MESSAGE value="Covariant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Covariant" />
   </component>
 </project>
