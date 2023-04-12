@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Contravariant 2">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/WildcardApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Wildcard">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/TypeErasureApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WildcardApp">
+  <component name="RunManager" selected="Application.TypeErasureApp">
     <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ArrayHelperApp" />
       <module name="belajar-java-generic" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericClassApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.GenericClassApp" />
+    <configuration name="PairApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.PairApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.PairApp" />
+    <configuration name="TypeErasureApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.TypeErasureApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeErasureApp" />
         <item itemvalue="Application.WildcardApp" />
         <item itemvalue="Application.ContravariantApp" />
         <item itemvalue="Application.ArrayHelperApp" />
         <item itemvalue="Application.PairApp" />
-        <item itemvalue="Application.GenericClassApp" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681279586442</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Wildcard">
+      <created>1681280919163</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681280919163</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +187,7 @@
     <MESSAGE value="Covariant" />
     <MESSAGE value="Contravariant" />
     <MESSAGE value="Contravariant 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contravariant 2" />
+    <MESSAGE value="Wildcard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wildcard" />
   </component>
 </project>
