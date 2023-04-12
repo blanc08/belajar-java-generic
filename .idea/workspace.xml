@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Typeerasure Problem">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ComparableApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Comparable Interface">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ComparatorApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ComparableApp">
-    <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ArrayHelperApp" />
+  <component name="RunManager" selected="Application.ComparatorApp">
+    <configuration name="ComparableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ComparableApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ComparableApp" />
+    <configuration name="ComparatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ComparatorApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorApp" />
         <item itemvalue="Application.ComparableApp" />
         <item itemvalue="Application.TypeErasureApp" />
         <item itemvalue="Application.WildcardApp" />
         <item itemvalue="Application.ContravariantApp" />
-        <item itemvalue="Application.ArrayHelperApp" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681281339538</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Comparable Interface">
+      <created>1681281887163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681281887163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +203,7 @@
     <MESSAGE value="Contravariant 2" />
     <MESSAGE value="Wildcard" />
     <MESSAGE value="Typeerasure Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typeerasure Problem" />
+    <MESSAGE value="Comparable Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable Interface" />
   </component>
 </project>
