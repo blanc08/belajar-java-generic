@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Covariant">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ContravariantApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Contravariant">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/ConstraintApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/MultipleConstraintApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681273770469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Contravariant">
+      <created>1681274515697</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681274515697</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +166,7 @@
     <MESSAGE value="Generic method" />
     <MESSAGE value="Invariant" />
     <MESSAGE value="Covariant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Covariant" />
+    <MESSAGE value="Contravariant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contravariant" />
   </component>
 </project>
