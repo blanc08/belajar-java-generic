@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Generic method">
-      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/InvariantApp.java" afterDir="false" />
+    <list default="true" id="2714dd2c-ee3e-406e-ae06-02dcc55d1949" name="Changes" comment="Invariant">
+      <change afterPath="$PROJECT_DIR$/src/blanc08/generic/application/CovariantApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/macbookpro/src/learning/java/belajar-java-generic/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbookpro/src/learning/java/belajar-java-generic/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ArrayHelperApp">
     <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blanc08.generic.application.ArrayHelperApp" />
@@ -122,12 +122,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681107109669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Invariant">
+      <created>1681109362824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681109362824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic class" />
     <MESSAGE value="Generic method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic method" />
+    <MESSAGE value="Invariant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Invariant" />
   </component>
 </project>
